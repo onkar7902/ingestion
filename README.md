@@ -67,6 +67,8 @@ Please ensure you review and follow any additional guidelines provided by the do
 
 ## Implementation Guide
 
+### Implementation Overview
+
 If you do not have **Control Tower set up** in your AWS environment, you can utilize our standalone application named *"standalone-elastic-log-ingestion"* which is available in the Serverless Application Repository.
 
 Note - Your AWS account must be part of an AWS Organization, as the organization ID will be required during the application deployment process.
